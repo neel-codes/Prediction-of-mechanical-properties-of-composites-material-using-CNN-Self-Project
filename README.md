@@ -1,0 +1,1 @@
+# Prediction-of-mechanical-properties-of-composites-material-using-CNN-Self-Project
